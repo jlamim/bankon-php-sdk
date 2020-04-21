@@ -1,12 +1,12 @@
 {
-    "name": "phabloraylan/bankon-php-sdk",
+    "name": "jlamim/bankon-php-sdk",
     "description": "Essa biblioteca permite voc\u0000 se conectar com https://dev.bankon.com.br/ facilmente.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "phabloraylan",
-            "email": "phabloraylan@gmail.com"
+            "name": "jlamim",
+            "email": "dev@jlamim.com.br"
         }
     ],
     "minimum-stability": "stable",
